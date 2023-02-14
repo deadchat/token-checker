@@ -6,14 +6,4 @@
 </div>
 
 ### Todo
-- [x] HTTP Support
-- [x] Socks4 Support
-- [x] Socks5 Support
-- [ ] Multithreading
-
-<div><hr></div>
-
-### How does it work?
-First it gets all Proxies of public Proxy List's and request them.<br>
-In the Request is a timeout _(which u can choose)_ after the timeout its a `error`.<br>
-If the Proxy is valid and the it have a good speed it does a `success`.
+- [x] Proxy Support 
